@@ -1,0 +1,14 @@
+errors.txt
+files.txt
+log.txt
+traceback.txt
+game/audio
+game/cache
+game/gui
+game/images
+game/saves
+game/scripts
+game/sfx
+game/tl
+game/기획.txt
+game/임시코드.txt
